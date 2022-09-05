@@ -1,27 +1,2 @@
 #!/bin/bash
-echo 'C#
-C
-Javascript
-Perl
-PHP
-PHP
-ASP
-R
-Go
-C#
-C++
-R
-Perl
-Javascript
-Javascript
-Python
-Javascript
-Javascript
-Javascript
-Java
-Java
-Python
-Javascript
-Javascript
-Javascript
-ASP' >> list |cat list | sort -u 
+echo 'C# C Javascript Perl PHP PHP ASP R GO C# C++ R Perl Javascript Javascript Python Javascript Javascript ASP' >> list |cat list | sort -u 
