@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'C# C Javascript Perl PHP PHP ASP R GO C# C++ R Perl Javascript Javascript Python Javascript Javascript ASP' >> list |cat list | sort -u 
+sort | uniq -u
